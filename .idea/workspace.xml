@@ -17,6 +17,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="532">
               <caret line="184" column="0" lean-forward="true" selection-start-line="184" selection-start-column="0" selection-end-line="184" selection-end-column="0" />
               <folding>
@@ -94,6 +95,13 @@
                 <element signature="e#26184#26847#2" expanded="true" />
                 <element signature="e#27487#28150#2" expanded="true" />
                 <element signature="e#34862#35525#2" expanded="true" />
+=======
+            <state relative-caret-position="19">
+              <caret line="6" column="53" lean-forward="false" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
+              <folding>
+                <element signature="n#article#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#article#1;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+>>>>>>> 8e78310ea8d3bdd4364ea36a8a2c856c57972abc
               </folding>
             </state>
           </provider>
@@ -114,9 +122,17 @@
     <findStrings>
       <find>unit four-fifths</find>
       <find>.w-4-5</find>
+<<<<<<< HEAD
       <find>center-on-mobiles</find>
     </findStrings>
   </component>
+=======
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+>>>>>>> 8e78310ea8d3bdd4364ea36a8a2c856c57972abc
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -135,12 +151,22 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1912" />
     <option name="height" value="1000" />
   </component>
+=======
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="8" />
+    <option name="y" value="34" />
+    <option name="width" value="1912" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+>>>>>>> 8e78310ea8d3bdd4364ea36a8a2c856c57972abc
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -156,7 +182,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scope" />
+=======
+>>>>>>> 8e78310ea8d3bdd4364ea36a8a2c856c57972abc
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -173,12 +202,20 @@
             <path>
               <item name="文件" type="b2602c69:ProjectViewProjectNode" />
               <item name="文件" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="img" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 8e78310ea8d3bdd4364ea36a8a2c856c57972abc
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+=======
+      <pane id="Scope" />
+>>>>>>> 8e78310ea8d3bdd4364ea36a8a2c856c57972abc
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -189,7 +226,10 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+<<<<<<< HEAD
       <recent name="C:\Users\Administrator\Desktop\文件\img" />
+=======
+>>>>>>> 8e78310ea8d3bdd4364ea36a8a2c856c57972abc
       <recent name="C:\Users\Administrator\Desktop\文件\js" />
     </key>
   </component>
@@ -215,22 +255,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511766828141</updated>
+<<<<<<< HEAD
       <workItem from="1511766829447" duration="7273000" />
       <workItem from="1511830892022" duration="3094000" />
+=======
+      <workItem from="1511766829447" duration="6716000" />
+      <workItem from="1511776599870" duration="31000" />
+>>>>>>> 8e78310ea8d3bdd4364ea36a8a2c856c57972abc
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="10367000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
+=======
+    <option name="totallyTimeSpent" value="6747000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+>>>>>>> 8e78310ea8d3bdd4364ea36a8a2c856c57972abc
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+>>>>>>> 8e78310ea8d3bdd4364ea36a8a2c856c57972abc
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -261,11 +317,16 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+<<<<<<< HEAD
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+=======
+            <element signature="n#article#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#article#1;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+>>>>>>> 8e78310ea8d3bdd4364ea36a8a2c856c57972abc
           </folding>
         </state>
       </provider>
@@ -306,6 +367,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/feed.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2204">
@@ -314,6 +376,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> 8e78310ea8d3bdd4364ea36a8a2c856c57972abc
     <entry file="file://$PROJECT_DIR$/js/modernizr.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -329,12 +393,21 @@
           <folding>
             <element signature="e#9667#10414#2" expanded="true" />
             <element signature="e#16155#16818#2" expanded="true" />
+<<<<<<< HEAD
             <element signature="e#20497#21160#2" expanded="true" />
             <element signature="e#22279#22946#2" expanded="true" />
             <element signature="e#24315#24978#2" expanded="true" />
             <element signature="e#26184#26847#2" expanded="true" />
             <element signature="e#27487#28150#2" expanded="true" />
             <element signature="e#34862#35525#2" expanded="true" />
+=======
+            <element signature="e#20434#21097#2" expanded="true" />
+            <element signature="e#22216#22883#2" expanded="true" />
+            <element signature="e#24252#24915#2" expanded="true" />
+            <element signature="e#26121#26784#2" expanded="true" />
+            <element signature="e#27424#28087#2" expanded="true" />
+            <element signature="e#34799#35462#2" expanded="true" />
+>>>>>>> 8e78310ea8d3bdd4364ea36a8a2c856c57972abc
           </folding>
         </state>
       </provider>
@@ -383,6 +456,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/feed.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2204">
@@ -404,12 +478,29 @@
             <element signature="e#26184#26847#2" expanded="true" />
             <element signature="e#27487#28150#2" expanded="true" />
             <element signature="e#34862#35525#2" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/feed.xml" />
+    <entry file="file://$PROJECT_DIR$/css/css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="16" lean-forward="false" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+          <folding>
+            <element signature="e#9667#10414#2" expanded="true" />
+            <element signature="e#16155#16818#2" expanded="true" />
+            <element signature="e#20434#21097#2" expanded="true" />
+            <element signature="e#22216#22883#2" expanded="true" />
+            <element signature="e#24252#24915#2" expanded="true" />
+            <element signature="e#26121#26784#2" expanded="true" />
+            <element signature="e#27424#28087#2" expanded="true" />
+            <element signature="e#34799#35462#2" expanded="true" />
+>>>>>>> 8e78310ea8d3bdd4364ea36a8a2c856c57972abc
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="532">
           <caret line="184" column="0" lean-forward="true" selection-start-line="184" selection-start-column="0" selection-end-line="184" selection-end-column="0" />
           <folding>
@@ -418,6 +509,13 @@
             <element signature="n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+=======
+        <state relative-caret-position="19">
+          <caret line="6" column="53" lean-forward="false" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
+          <folding>
+            <element signature="n#article#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#article#1;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+>>>>>>> 8e78310ea8d3bdd4364ea36a8a2c856c57972abc
           </folding>
         </state>
       </provider>
