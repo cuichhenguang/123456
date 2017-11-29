@@ -830,7 +830,7 @@ strong {
 
 p {
     line-height: 1.5em;
-    white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
+
 }
 
 .left { float: left; }
@@ -1306,4 +1306,7 @@ article h1 {
     float: right;
     width: 92px;
     height: 92px;
+}
+.post_p{
+    white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
 }
