@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <title>登陆</title>
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link rel="alternate" type="application/rss+xml" title="Jekyll • Simple, blog-aware, static sites - Feed" href="/feed.xml" />
     <link rel="alternate" type="application/atom+xml" title="Recent commits to Jekyll’s master branch" href="https://github.com/jekyll/jekyll/commits/master.atom" />
     <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Arizonia' rel='stylesheet' type='text/css'>
@@ -20,10 +19,10 @@
         padding: 25px;
         }
     .login-form {
-        width: 350px;
+        /*width: 350px;*/
         margin: 20px auto 0 auto;
         padding: 40px;
-        background: rgba(255,255,255,1);
+        background: rgba(0,0,0,.3);
         border-radius: 5px;
         box-shadow: 0 10px 70px 0 rgba(0,0,0,.3);
         text-align: center;
@@ -58,6 +57,10 @@
         height:30px;
         border-radius:15px;
     }
+        article{
+            background: url("img/LOGO1.png");
+            background-size: 100% 100%;
+        }
 </style>
 
 <body class="wrap">
@@ -123,10 +126,21 @@
 </section>
 
 
-<footer>
-    
-</footer>
 
+<footer>
+    <div class="grid">
+        <div class="unit one-third center-on-mobiles footr_left">
+            <p>郑州小夫子文化传媒有限公司</p>
+            <p></p>
+        </div>
+
+        <div class="footr_right">
+            <!--<img src="" alt="">-->
+            <div class="footr_rights"></div>
+        </div>
+        <div style="clear: both"></div>
+    </div>
+</footer>
 <script type="text/javascript">
     var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
     document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F4f5296419f5b6430c71afcd002cad453' type='text/javascript'%3E%3C/script%3E"));
