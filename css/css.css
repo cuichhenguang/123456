@@ -511,11 +511,25 @@ article {
     article ul {
         padding-left: 20px;
     }
+    .footr_rights{
+        display: none;
+    }
+    .footr_right{
+
+        display: none;
+    }
 }
 
 @media (max-width: 568px){
     article {
         margin: 0;
+    }
+    .footr_rights{
+        display: none;
+    }
+    .footr_right{
+
+        display: none;
     }
 }
 
@@ -695,6 +709,13 @@ article h2:first-child {
 @media (max-width: 568px){
     .post-category {
         padding-left: 30px;
+    }
+    .footr_rights{
+        display: none;
+    }
+    .footr_right{
+
+        display: none;
     }
 }
 
@@ -971,6 +992,13 @@ code.option, code.flag, code.filter, code.output {
     .note {
         margin-right: -30px;
     }
+    .footr_rights{
+        display: none;
+    }
+    .footr_right{
+
+        display: none;
+    }
 }
 
 @media (min-width: 768px){
@@ -1079,6 +1107,13 @@ code.option, code.flag, code.filter, code.output {
         overflow-x: scroll;
         margin: 0 -40px;
         padding: 0 10px;
+    }
+    .footr_rights{
+        display: none;
+    }
+    .footr_right{
+
+        display: none;
     }
 }
 
@@ -1215,12 +1250,20 @@ body > footer {
     .doc-origin {
         padding-left: 30px;
     }
+    .footr_rights{
+        display: none;
+    }
+    .footr_right{
+
+        display: none;
+    }
 }
 
 @media (min-width: 768px){
     .doc-origin {
         margin-left: -50px;
     }
+
 }
 
 .doc-origin:before {
@@ -1247,3 +1290,20 @@ article h1 {
 }
 
 
+/*后加上的样式*/
+.footr_left{
+    float: left;
+}
+.footr_rights{
+    width: 72px;
+    height: 72px;
+    background: url("../img/LOGO.png");
+    background-size: 100% 100%;
+    margin: 10px 20px 10px 0px;
+}
+.footr_right{
+
+    float: right;
+    width: 92px;
+    height: 92px;
+}
