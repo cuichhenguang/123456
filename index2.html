@@ -151,9 +151,7 @@
          position: fixed;
          bottom: 0;
      }
-    .login-button a{
-        color: #555;
-    }
+
 
 </style>
 
@@ -211,19 +209,11 @@
                 <div  class="ng-scope">
                     <div class="ng-scope">
                         <div class="input-with-icon wfull username">
-                            <div>
-                                <p id="index3_p">
-                                    上传头像：<input type="file" id="xdaTanFileImg" onchange="xmTanUploadImg(this)" accept="image/*"/>
-                                </p>
-                                <img id="xmTanImg"/>
-                                <div id="xmTanDiv"></div>
-                            </div>
-
+                            <input type="text" class="form-control ng-pristine ng-untouched ng-valid ng-empty" placeholder="修改密码">
                         </div>
                         <div class="input-with-icon wfull username">
-                            <input type="text" class="form-control ng-pristine ng-untouched ng-valid ng-empty" placeholder="修改昵称">
+                            <input type="text" class="form-control ng-pristine ng-untouched ng-valid ng-empty" placeholder="确认密码">
                         </div>
-                        <button class="btn  login-button"><a href="index2.html">修改密码</a></button>
                         <button class="btn  login-button" >确认</button>
                     </div>
                 </div>
